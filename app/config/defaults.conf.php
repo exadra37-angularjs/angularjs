@@ -1,0 +1,3 @@
+<?php
+
+$metaTitle = "Home Page";
